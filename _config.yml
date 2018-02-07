@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Developer, Super Chef, and Mom.</h1>
+     <h1>Web Developer, Super Chef, and Mom.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -25,10 +25,10 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: 
+  github:
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  https://www.linkedin.com/in/siscely-george-60a079147/
   pinterest:
   reddit:
   soundcloud:
@@ -40,7 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-113773961-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 

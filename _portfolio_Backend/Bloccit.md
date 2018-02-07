@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Bloccit
+thumbnail-path: "/img/Bloccit_img.png"
 ---
+
+!['Bloccit'](/img/Bloccit_img.png)
 
 **SUMMARY:**
 Bloccit is an app where people can post, vote on, share and save links and comments.

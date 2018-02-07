@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Blocipedia
+thumbnail-path: "/img/Bloccipedia_img.png"
 ---
+
+!['Bloccipedia'](/img/Bloccipedia_img.png)
+
 **SUMMARY:**
 Build an application that allows users to create public and private Markdown-based wikis.
 
@@ -34,4 +38,4 @@ As a premium user, I want to create private wikis.  Premium and admin users shou
 
 As a user, I want to edit wikis using Markdown syntax.  I used the *Redcarpet gem* to parse Markdown syntax.
 
-Finally, as a premium user, I want to add and remove collaborators for my private wikis.  Users will add and remove collaborators from a private wiki via its edit page. I Modeled this new relationship between wikis and users by creating a collaborator model. Private wikis should only be visible to admins, the wiki creator, or wiki collaborators. I used Pundit's scope to restrict which wikis appear on the index page. 
+Finally, as a premium user, I want to add and remove collaborators for my private wikis.  Users will add and remove collaborators from a private wiki via its edit page. I Modeled this new relationship between wikis and users by creating a collaborator model. Private wikis should only be visible to admins, the wiki creator, or wiki collaborators. I used Pundit's scope to restrict which wikis appear on the index page.
