@@ -4,7 +4,7 @@ title: Blocipedia
 thumbnail-path: "/img/Bloccipedia_img.png"
 ---
 
-!['Bloccipedia'](/img/Bloccipedia_img.png)
+!['Blocipedia'](/img/Blocipedia_img.png)
 
 **SUMMARY:**
 Build an application that allows users to create public and private Markdown-based wikis.
