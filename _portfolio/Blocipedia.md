@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "/img/Bloccipedia_img.png"
+thumbnail-path: "/img/Blocipedia_img.png"
 ---
 
 !['Blocipedia'](/img/Blocipedia_img.png)
