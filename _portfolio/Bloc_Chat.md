@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Bloc-Chat
-thumbnail-path: "/img/Bloc_Chat_img_2.png"
+thumbnail-path: "/img/Bloc_chat_img_2.png"
 ---
 
-!['Bloc Chat'](/img/Bloc_Chat_img_2.png)
+!['Bloc Chat'](/img/Bloc_chat_img_2.png)
 
 **SUMMARY**:
 Bloc Chat uses Firebase and AngularJS to create a real-time chat application. In this project I used Firebase to build an application that sends and receives messages in real time.
