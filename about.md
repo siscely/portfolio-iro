@@ -5,8 +5,4 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+I am a full stack web developer with knowledge in both front end and back end languages, responsive frameworks, and best code practices.  My objective is to be a confident web developer.  I am dedicated to learning from seasoned web developers, remaining humble, while continuing to stride to be good at development.  While a student of Engineering at Bangalore University, India, I studied Mathematics and, I believe, my analytical and problem solving skills are skills that has and will continue to contribute to my overall success as a developer.
