@@ -2,7 +2,6 @@
 layout: page
 title: portfolio
 permalink: /portfolio/
-feature-img: "img/color.png"
 hide: false
 ---
 <div class="work">
