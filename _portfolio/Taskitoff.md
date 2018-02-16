@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Bloc-Jams Project 2
-thumbnail-path: "/img/Blocitoff_img.png"
+thumbnail-path: "/img/Taskitoff_img.png"
 ---
 
-!['Blocitoff'](/img/Blocitoff_img.png)
+!['Taskitoff'](/img/Taskitoff_img.png)
 
 **SUMMARY:**
 Blocitoff uses the Firebase API and AngularJS to create tasks with an expiration date.

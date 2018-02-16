@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Blocipedia
-thumbnail-path: "/img/Blocipedia_img.png"
+thumbnail-path: "/img/Userpedia_img.png"
 ---
 
-!['Blocipedia'](/img/Blocipedia_img.png)
+!['Userpedia'](/img/Userpedia_img.png)
 
 **SUMMARY:**
 Build an application that allows users to create public and private Markdown-based wikis.
