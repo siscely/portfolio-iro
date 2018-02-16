@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blocipedia
+title: Userpedia
 thumbnail-path: "/img/Userpedia_img.png"
 ---
 

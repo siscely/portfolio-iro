@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloc-Jams Project 2
+title: Taskitoff
 thumbnail-path: "/img/Taskitoff_img.png"
 ---
 
